@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+streamlit
+pytz
+python-dateutil
+pandas
+telethon
+gspread
+google
+geopy

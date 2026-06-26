@@ -1,0 +1,25 @@
+2026-02-09 15:50:40,412 | WARNING | Supabase URL or key not set
+2026-02-09 15:50:43,257 | INFO | ✅ Google Sheets service initialized
+2026-02-09 15:50:43,257 | WARNING | Supabase URL or key not set
+2026-02-09 15:50:46,137 | INFO | ✅ Google Sheets service initialized
+2026-02-09 15:50:46,137 | WARNING | Supabase URL or key not set
+2026-02-09 15:50:48,938 | INFO | ✅ Google Sheets service initialized
+2026-02-09 15:50:52,127 | INFO | ✅ Google Sheets service initialized
+2026-02-09 15:50:54,928 | INFO | ✅ Google Sheets service initialized
+2026-02-09 15:50:57,753 | INFO | ✅ Google Sheets service initialized
+2026-02-09 15:51:00,518 | INFO | ✅ Google Sheets service initialized
+2026-02-09 15:51:03,541 | INFO | ✅ Google Sheets service initialized
+2026-02-09 15:51:06,287 | INFO | ✅ Google Sheets service initialized
+2026-02-09 15:51:09,349 | INFO | ✅ Google Sheets service initialized
+2026-02-09 15:51:12,544 | INFO | ✅ Google Sheets service initialized
+2026-02-09 15:51:12,544 | INFO | 🚀 Bot is starting...
+2026-02-09 15:51:12,558 | INFO | Connecting to 91.108.56.124:443/TcpFull...
+2026-02-09 15:51:12,600 | INFO | Connection to 91.108.56.124:443/TcpFull complete!
+2026-02-09 15:51:13,031 | INFO | ✅ Bot is running
+2026-02-09 15:51:18,014 | INFO | ✅ Google Sheets service initialized
+2026-02-09 15:51:22,246 | INFO | ✅ Data fetched from sheet 'Credentials'
+2026-02-09 15:51:22,262 | INFO | Loaded 26 allowed Telegram IDs
+2026-02-09 15:51:22,267 | INFO | Message from 859883152: /help
+2026-02-09 15:52:50,776 | INFO | Disconnecting from 91.108.56.124:443/TcpFull...
+2026-02-09 15:52:50,792 | INFO | Disconnection from 91.108.56.124:443/TcpFull complete!
+2026-02-09 15:52:50,792 | INFO | Not disconnecting (already have no connection)
